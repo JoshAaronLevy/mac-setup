@@ -1,6 +1,6 @@
 # 1. Install Homebrew
 
-Homebrew allows you to install a wide range of dependencies and databases needed for coding.
+Homebrew is a critical package manager essential for coding.
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
